@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 120vh;
+}
+.imgfon{
+
+    width: 100%;
+    height: 45vh;
+}
+.parent{
+   display: block;
+   width: 45px;
+   height: 38px;
+   margin: 2px;
+   position: absolute;
+   top: 9%;
+   left: 95%;
+   text-shadow: 100%;
+   
+}
+.head:hover{
+   display:flex;
+   flex-direction: row;
+   justify-content: end;
+   justify-content: space-around;
+   background-size: 100vh;
+}
+.fk{
+     position: absolute;
+     justify-content: end;
+    left: 1px;
+    bottom: 11vh;
+    width: 35%;
+    height: 80vh;
+}
+.Hen{
+    
+    position: relative;
+    position: absolute;
+    width: 28vh;
+    height: 26vh;
+    border-radius: 38%;
+    margin-top: 18px;
+    margin-left: 32px;
+    top: 37%;
+    left: 1%;
+}
+.tvyalner{
+    position: absolute;
+    z-index: 100%;
+ font-size: 22.1px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+ top: 70%;
+ left: 17%;
+
+
+ 
+ 
+}
